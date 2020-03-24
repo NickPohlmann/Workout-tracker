@@ -8,3 +8,7 @@ h1 {
     padding: 10px;
     text-decoration: none;
 }
+.workoutLogButtonsWrapper {
+    display: flex;
+    justify-content: space-around;
+}
