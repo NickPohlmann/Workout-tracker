@@ -1,0 +1,10 @@
+h1 {
+    color: red;
+}
+.workoutLogButtons {
+    border-color: blue;
+    border-style: double;
+    border-width: medium;
+    padding: 10px;
+    text-decoration: none;
+}
