@@ -28,3 +28,25 @@ h1 {
     padding: 3px;
     color: black;
 }
+
+.bodyPartButtonWrapper {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.chestShouldersTricepsButton {
+    border-style: double;
+    border-color: blue;
+    border-width: medium;
+    padding: 3px;
+    color: black;
+}
+
+.backBicepsButton {
+    border-style: double;
+    border-color: blue;
+    border-width: medium;
+    padding: 3px;
+    color: black;
+}
+
