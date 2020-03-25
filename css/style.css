@@ -1,14 +1,30 @@
 h1 {
-    color: red;
+    color: goldenrod;
 }
+
+.titleWrapper{
+    display: flex;
+    justify-content: center;
+}
+
 .workoutLogButtons {
     border-color: blue;
     border-style: double;
     border-width: medium;
     padding: 10px;
-    text-decoration: none;
+    text-decoration: solid;
+    color:black;
+
 }
 .workoutLogButtonsWrapper {
     display: flex;
     justify-content: space-around;
+}
+
+.homeButton {
+    border-style: double;
+    border-color: blue;
+    border-width: medium;
+    padding: 3px;
+    color: black;
 }
